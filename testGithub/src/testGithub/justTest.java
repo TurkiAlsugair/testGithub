@@ -5,6 +5,9 @@ public class justTest {
 	public static void main(String[] args) {
 		
 		System.out.println("Suiiiii");
+		System.out.println("Yeah");
+
+		
 
 	}
 
